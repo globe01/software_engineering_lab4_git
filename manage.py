@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# B2 branch进行修改
+=======
 # B3 branch进行修改，这段修改和B2不一样
+>>>>>>> B3
 
 #!/usr/bin/env python
 import os
