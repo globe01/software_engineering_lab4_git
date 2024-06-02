@@ -1,3 +1,6 @@
+
+# R12 的不一样的修改，文件3
+
 from django.db import models
 from rest_framework import serializers
 
